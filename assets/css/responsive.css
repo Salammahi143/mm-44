@@ -1,0 +1,227 @@
+@media (min-width: 320px) and (max-width: 767px){
+    .navbar {
+        left: 0;
+        right: 0;
+    }
+    .banner-text {
+        padding-top: 180px;
+        padding-left: 36px;
+        padding-bottom: 55px;
+    }
+    .banner-text h1 {
+        color: #fff;
+        font-weight: 700;
+        font-size: 42px;
+        max-width: 596px;
+        margin-bottom: 12px;
+    }
+    .banner-img {
+        display: none;
+    }
+    .banner-text p {
+        margin-bottom: 38px;
+    }
+    ul.lots {
+        margin-top: 30px;
+    }
+    ul.lots li {
+        display: initial;
+    }
+    ul.lots li span {
+        font-size: 17px;
+    }
+    ul.lots li a {
+        font-size: 18px;
+    }
+    p.styl {
+        font-size: 15px;
+    }
+    .ima {
+        left: 22%;
+    }
+    .im {
+        display: none;
+    }
+    .imae {
+        display: none;
+    }
+    .imag {
+        left: 30px;
+    }
+    .content {
+        left: 45%;
+    }
+    .banner-sd {
+        display: none;
+    }
+    .shap-img {
+        bottom: -1px;
+        right: -1px;
+    }
+    .about {
+        margin-left: 0px;
+    }
+    .section-title h1 {
+        font-size: 30px;
+    }
+    ul.list li i {
+        margin-right: 10px;
+        margin-bottom: 5px;
+    }
+    .about-text p {
+        font-size: 17px;
+        margin: 12px 0 12px 0;
+    }
+    a.banner-btn {
+        padding: 16px 20px 15px 20px;
+        font-size: 17px;
+    }
+    ul.list {
+        margin-bottom: 40px;
+    }
+    .til {
+        margin-top: 75px;
+    }
+    .b-txt {
+        margin-top: -32px;
+    }
+    .bins-text {
+        width: 287px;
+        left: -2px;
+    }
+    img.img-i {
+        padding-bottom: 16px;
+    }
+    .our-team {
+        position: static;
+    }
+    .ourteam-img {
+        margin-bottom: 20px;
+    }
+    .tem-contant {
+        width: 86%;
+        margin: auto;
+        left: 0;
+        right: 0;
+    }
+    .tem-contan {
+        width: 86%;
+        margin: auto;
+        left: 0;
+        right: 0;
+    }
+    .section-titl {
+        padding-bottom: 20px;
+    }
+    .massage-icon {
+        top: 71px;
+        z-index: -2;
+    }
+    .banner-area .row {
+        margin-left: -40px;
+    }
+    .faq-content {
+        padding-right: 0px;
+    }
+    .faq-content .accordion-button:not(.collapsed) {
+        padding: 10px 60px 10px 28px;
+        font-size: 16px;
+    }
+    .accordion-body p {
+        padding: 0px 0px 0px;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .faq-content .accordion-button {
+        font-size: 16px;
+    }
+    .otometer-text h1 {
+        font-size: 25px;
+    }
+    .otometre-num {
+        margin-top: 40px;
+        text-align: center;
+    }
+    .otometre-num h2 {
+        font-size: 45px;
+    }
+    .otometre-num span {
+        font-size: 18px;
+    }
+    .customar-dot {
+        z-index: -2;
+    }
+    .customer-text p {
+        font-size: 19px;
+        line-height: 32px;
+        margin-bottom: 10px;
+    }
+    .start-info {
+        position: static;
+        /* bottom: -18px; */
+        /* right: 24px; */
+    }
+    
+    .owl-carousel .owl-item img {
+        width: auto;
+    }
+    .contant-text h6 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .text-area {
+        padding: 20px 45px 20px 45px;
+        margin-top: 20px;
+        font-size: 17px;
+    }
+    .text-are {
+        padding: 10px 45px 10px 45px;
+        font-size: 17px;
+    }
+    .customer-text {
+        margin-bottom: 95px;
+    }
+    .img-swipe {
+        top: -50px;
+    }
+    .img-swip {
+        margin-top: 20px;
+    }
+    .section-tit h1 {
+        font-size: 30px;
+    }
+    .team-metting h2 a {
+        font-size: 18px;
+    }
+    .team-metting p {
+        font-size: 18px;
+    }
+    .use-post {
+        margin-bottom: 30px;
+    }
+    .ftr {
+        margin-left: 0px;
+    }
+    ul.cont li {
+        padding-bottom: 9px;
+    }
+    a.top-btn {
+        display: none;
+    }
+    a.top-bt {
+        display: none;
+    }
+    div#navbarSupportedContent {
+        background: #000;
+    }
+    .slider-item .owl-nav button.owl-next {
+        right: 20%;
+    }
+    .slider-item .owl-nav button.owl-prev {
+        left: 23%;
+    }
+    .shp-img {
+        top: 44%;
+        left: 135px;
+    }
+}
